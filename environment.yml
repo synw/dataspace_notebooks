@@ -1,6 +1,1 @@
 name: python 3.10
-dependencies:
-  - python=3.10
-  - dataspace=0.0.7
-  - fpdf2==2.6.1 
-  - altair_saver=0.5.0
