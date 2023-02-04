@@ -15,5 +15,5 @@ pip install dataspace
 Run the notebooks:
 
 ```
-jupyter lab
+jupyter-lab
 ```
