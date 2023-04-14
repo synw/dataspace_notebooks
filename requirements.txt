@@ -3,3 +3,5 @@ fpdf2==2.6.1
 altair==5.0.0rc1
 altair_saver==0.5.0
 polars[numpy,pandas,pyarrow]==0.17.2
+holoviews==1.15.4
+bokeh
